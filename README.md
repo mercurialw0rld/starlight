@@ -321,4 +321,3 @@ For support and questions:
 ---
 
 **Starlight** - Illuminate your documents with AI-powered conversations.</content>
-<parameter name="filePath">c:\Users\facu\OneDrive\Documentos\code_projects\starlight2\README.md
