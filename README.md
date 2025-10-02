@@ -2,7 +2,7 @@
 
 A modern document management and AI-powered chat application that allows users to upload documents, process them with AI embeddings, and engage in intelligent conversations based on their uploaded content.
 
-<img src="screenshot.png"></img>
+<img src="screenshot.png"> </img>
 
 ## Features
 
